@@ -1,2 +1,2 @@
 # Text-processing
-Big Data Analytics
+Générer des scores (notes) à des commentaires nouvellement mis sur des recettes récupérées de marmitton
